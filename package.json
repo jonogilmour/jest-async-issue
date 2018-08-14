@@ -1,0 +1,10 @@
+{
+  "name": "jest-async-issue",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx jest --watchAll"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
